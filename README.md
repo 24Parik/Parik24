@@ -19,13 +19,13 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://cutt.ly/0yz27m0E">parik24-ua.net</a></td>
+        <td><a href="https://cutt.ly/eyxyzzjQ">parik24-ua.net</a></td>
       </tr>
       <tr>
-        <td><a href="https://cutt.ly/0yz27m0E">parik24-pl.com</a></td>
+        <td><a href="https://cutt.ly/eyxyzzjQ">parik24-pl.com</a></td>
       </tr> 
       <tr>
-        <td><a href="https://cutt.ly/0yz27m0E">parik-24.io</a></td>
+        <td><a href="https://cutt.ly/eyxyzzjQ">parik-24.io</a></td>
       </tr>
   </tbody>
   </table>
